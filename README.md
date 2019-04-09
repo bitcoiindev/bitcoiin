@@ -6,4 +6,7 @@ https://cointelegraph.com/lightning-network-101/what-is-lightning-network-and-ho
 cryptography-cryptocurrency-bitcoin-blockchain-lightning-network-lightning-protocol
 
 How The Banks Bought Bitcoin
+
 https://youtu.be/UYHFrf5ci_g
+
+http://lightning.network/lightning-network-paper.pdf
