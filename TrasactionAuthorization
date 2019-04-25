@@ -1,0 +1,3 @@
+pre-trasaction authorization --- transaction --- post-transaction authorization
+
+This concept allows for increased transaction security by requiring another authorization sequence prior to a transaction being completed.
